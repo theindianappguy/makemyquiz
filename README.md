@@ -2,7 +2,13 @@
 
 Create quiz, play them see detailed results and much more try now visit https://makemyquiz.web.app
 
+### Features Included ✅
+* Google Sign In with Firebase 
+* Firebase Auth (Sign In & Sign Up)
+* Firebase Cloud Firestore 
+* Acessign 500,000 Images via Pexels API
 
+and much more....
 
 ## Getting Started
 
