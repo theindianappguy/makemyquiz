@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "606765105913",
+    "firebase_url": "https://makemyquiz-125c8.firebaseio.com",
+    "project_id": "makemyquiz-125c8",
+    "storage_bucket": "makemyquiz-125c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606765105913:android:f863c9c42ca5d03fd05828",
+        "android_client_info": {
+          "package_name": "com.theindianappguy.quizmaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606765105913-tankg83qmusk0p0b074imq3ib1uoshvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBIZJx-qDKLC-_XWSlaL_EqSnSyiv9d90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606765105913-tankg83qmusk0p0b074imq3ib1uoshvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
