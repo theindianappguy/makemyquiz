@@ -1,6 +1,8 @@
-# quizmaker
+# Makemyquiz.web.app
 
-A new Flutter project.
+Create quiz, play them see detailed results and much more try now visit https://makemyquiz.web.app
+
+
 
 ## Getting Started
 
