@@ -20,8 +20,17 @@ and much more....
 
 * Connect to Firebase Web
 
+* Update Google Sing In API Key
 
+## Learn to build this:
 
+### Making Quiz Making App with Flutter 
+
+[Full Playlist on Youtube](https://www.youtube.com/playlist?list=PLBxWkM8PLHcpwZRAHN--L8aZ2UUkJA-SD)
+
+### Building Wallpaper app with Flutter 
+
+[Full Video on Youtube](https://youtu.be/EKdAU3l_0gA)
 
 ## Getting Started
 
